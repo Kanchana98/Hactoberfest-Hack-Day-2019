@@ -38,7 +38,7 @@ git checkout -b (branch-name)
           "message": "<your-message-to-the-community>"
        }
         ```
-    3. Save your File.
+    3. Save your Files.
     
     **NOTE:** Make sure to follow the format of dictionary. Commit message for profile card addition should be of the form *Added profile `profile_name`*
 
